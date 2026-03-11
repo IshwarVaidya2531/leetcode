@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarVaidya2531/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshwarVaidya2531/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/IshwarVaidya2531/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/IshwarVaidya2531/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/IshwarVaidya2531/leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
