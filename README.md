@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/IshwarVaidya2531/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/IshwarVaidya2531/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0027-remove-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshwarVaidya2531/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshwarVaidya2531/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/IshwarVaidya2531/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
