@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/IshwarVaidya2531/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/IshwarVaidya2531/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/0070-climbing-stairs) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/IshwarVaidya2531/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
 | ------- |
