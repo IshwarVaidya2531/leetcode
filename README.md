@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshwarVaidya2531/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/IshwarVaidya2531/leetcode/tree/master/0066-plus-one) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshwarVaidya2531/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/IshwarVaidya2531/leetcode/tree/master/0069-sqrtx) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshwarVaidya2531/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
