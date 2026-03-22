@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshwarVaidya2531/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IshwarVaidya2531/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/IshwarVaidya2531/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshwarVaidya2531/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
