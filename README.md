@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Trie
 |  |
 | ------- |
