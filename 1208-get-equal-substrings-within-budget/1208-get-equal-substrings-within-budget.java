@@ -1,6 +1,6 @@
 class Solution {
     public int equalSubstring(String s, String t, int maxCost) {
-        int left =0, right =0, window=0, ans =-1;
+        int left =0, right =0, window=0, ans =Integer.MIN_VALUE;
         for(;right<s.length();right++){
             window += Math.abs(s.charAt(right) - t.charAt(right));
             while(window > maxCost){
