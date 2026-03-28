@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarVaidya2531/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshwarVaidya2531/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/IshwarVaidya2531/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/IshwarVaidya2531/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/IshwarVaidya2531/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
