@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/IshwarVaidya2531/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshwarVaidya2531/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/IshwarVaidya2531/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/IshwarVaidya2531/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/IshwarVaidya2531/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Trie
 |  |
 | ------- |
