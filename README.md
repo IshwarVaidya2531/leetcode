@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/IshwarVaidya2531/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/IshwarVaidya2531/leetcode/tree/master/1496-path-crossing) |
