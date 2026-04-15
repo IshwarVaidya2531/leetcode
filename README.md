@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarVaidya2531/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshwarVaidya2531/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/IshwarVaidya2531/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshwarVaidya2531/leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/IshwarVaidya2531/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0917-reverse-only-letters) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/IshwarVaidya2531/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -201,5 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/IshwarVaidya2531/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
