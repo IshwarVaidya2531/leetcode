@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/IshwarVaidya2531/leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/IshwarVaidya2531/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1695-maximum-erasure-value](https://github.com/IshwarVaidya2531/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/IshwarVaidya2531/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/IshwarVaidya2531/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1496-path-crossing](https://github.com/IshwarVaidya2531/leetcode/tree/master/1496-path-crossing) |
+| [1657-determine-if-two-strings-are-close](https://github.com/IshwarVaidya2531/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/IshwarVaidya2531/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/IshwarVaidya2531/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/IshwarVaidya2531/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/IshwarVaidya2531/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
