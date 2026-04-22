@@ -8,9 +8,7 @@ class Solution {
             ca1[word1.charAt(i) - 'a']++;
             ca2[word2.charAt(i) - 'a']++;
         }
-        for(int i =0 ; i <26;i++){
-            if(ca1[i] > 0 && !(ca2[i] >0)) return false;
-        }
+        for(int i =0 ; i <26;i++)if(ca1[i] > 0 && !(ca2[i] >0)) return false;
         Arrays.sort(ca1);
         Arrays.sort(ca2);
         return Arrays.equals(ca1,ca2);
