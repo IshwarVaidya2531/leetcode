@@ -14,6 +14,5 @@ class Solution {
         Arrays.sort(ca1);
         Arrays.sort(ca2);
         return Arrays.equals(ca1,ca2);
-
     }
 }
