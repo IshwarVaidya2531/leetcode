@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/IshwarVaidya2531/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
