@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshwarVaidya2531/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/IshwarVaidya2531/leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/IshwarVaidya2531/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/IshwarVaidya2531/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/IshwarVaidya2531/leetcode/tree/master/0383-ransom-note) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/IshwarVaidya2531/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
