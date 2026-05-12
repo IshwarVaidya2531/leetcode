@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IshwarVaidya2531/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/IshwarVaidya2531/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshwarVaidya2531/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarVaidya2531/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarVaidya2531/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshwarVaidya2531/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/IshwarVaidya2531/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/IshwarVaidya2531/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarVaidya2531/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/IshwarVaidya2531/leetcode/tree/master/0290-word-pattern) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/IshwarVaidya2531/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshwarVaidya2531/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshwarVaidya2531/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
