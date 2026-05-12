@@ -9,6 +9,6 @@ class Solution {
                 res = res.append(c);
             }
         }
-        return new String(res);
+        return res.toString();
     }
 }
