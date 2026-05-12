@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshwarVaidya2531/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/IshwarVaidya2531/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/IshwarVaidya2531/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshwarVaidya2531/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/IshwarVaidya2531/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -258,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshwarVaidya2531/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
