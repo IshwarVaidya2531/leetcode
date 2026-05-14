@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/IshwarVaidya2531/leetcode/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -281,9 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
