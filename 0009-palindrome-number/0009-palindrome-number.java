@@ -11,6 +11,5 @@ class Solution {
         }
         return (rev==existing) ? true:false;
         
-
     }
 }
