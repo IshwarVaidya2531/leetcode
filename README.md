@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/IshwarVaidya2531/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/IshwarVaidya2531/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/IshwarVaidya2531/leetcode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshwarVaidya2531/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
