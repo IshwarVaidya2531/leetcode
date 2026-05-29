@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/IshwarVaidya2531/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/IshwarVaidya2531/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/IshwarVaidya2531/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
