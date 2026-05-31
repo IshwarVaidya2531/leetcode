@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/IshwarVaidya2531/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarVaidya2531/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/IshwarVaidya2531/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshwarVaidya2531/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/IshwarVaidya2531/leetcode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Linked List
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshwarVaidya2531/leetcode/tree/master/0011-container-with-most-water) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
