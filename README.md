@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/IshwarVaidya2531/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/IshwarVaidya2531/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/IshwarVaidya2531/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshwarVaidya2531/leetcode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/IshwarVaidya2531/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/IshwarVaidya2531/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/IshwarVaidya2531/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/IshwarVaidya2531/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/IshwarVaidya2531/leetcode/tree/master/0901-online-stock-span) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/IshwarVaidya2531/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/IshwarVaidya2531/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshwarVaidya2531/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
