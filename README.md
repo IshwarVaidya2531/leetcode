@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshwarVaidya2531/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/IshwarVaidya2531/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/IshwarVaidya2531/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshwarVaidya2531/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/IshwarVaidya2531/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/IshwarVaidya2531/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshwarVaidya2531/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshwarVaidya2531/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/IshwarVaidya2531/leetcode/tree/master/0901-online-stock-span) |
