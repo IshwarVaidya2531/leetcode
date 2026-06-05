@@ -333,4 +333,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/IshwarVaidya2531/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/IshwarVaidya2531/leetcode/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
