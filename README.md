@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/IshwarVaidya2531/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/IshwarVaidya2531/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/IshwarVaidya2531/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/IshwarVaidya2531/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/IshwarVaidya2531/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/IshwarVaidya2531/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
