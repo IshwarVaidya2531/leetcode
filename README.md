@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/IshwarVaidya2531/leetcode/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshwarVaidya2531/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/IshwarVaidya2531/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/IshwarVaidya2531/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/IshwarVaidya2531/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
