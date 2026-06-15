@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/IshwarVaidya2531/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/IshwarVaidya2531/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/IshwarVaidya2531/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/IshwarVaidya2531/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/IshwarVaidya2531/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/IshwarVaidya2531/leetcode/tree/master/1929-concatenation-of-array) |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/IshwarVaidya2531/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
