@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarVaidya2531/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2090-k-radius-subarray-averages](https://github.com/IshwarVaidya2531/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/IshwarVaidya2531/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2239-find-closest-number-to-zero](https://github.com/IshwarVaidya2531/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2248-intersection-of-multiple-arrays](https://github.com/IshwarVaidya2531/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/IshwarVaidya2531/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/IshwarVaidya2531/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
