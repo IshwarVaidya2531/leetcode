@@ -352,12 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/IshwarVaidya2531/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshwarVaidya2531/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
